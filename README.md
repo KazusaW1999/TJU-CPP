@@ -4,7 +4,7 @@ Be C++ good coders together.
 
 Show the core technical points, skip the most basic points.
 
-Maintained by members of HPC&amp;ARCH(2021).
+Maintained by members of HPC&amp;ARCH, Tianjin University.
 
 ## Menu
 

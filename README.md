@@ -1,6 +1,8 @@
+English | [简体中文](./README_CN.md)
+
 # TJU-CPP
 
-Be C++ good coders together.
+Be C++ Good Coders together.
 
 Show the core technical points, skip the most basic points.
 
@@ -35,5 +37,6 @@ Maintained by members of HPC&amp;ARCH, Tianjin University.
 
 ### 6. Parallel Programming
 
+- Basic Knowledge
 - Pthread
 - OpenMP

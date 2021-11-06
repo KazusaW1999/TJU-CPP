@@ -35,7 +35,7 @@
 - 虚函数
 - 多态
 
-### 6. 并行计算
+### 6. [并行计算](./Parallel_Computing/README_CN.md)
 
 - 基础知识
 - Pthread

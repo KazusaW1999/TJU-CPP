@@ -35,7 +35,7 @@ Maintained by members of HPC&amp;ARCH, Tianjin University.
 - Virtual Function
 - Polymorphism
 
-### 6. Parallel Programming
+### [6. Parallel Programming](./Parallel_Computing/README.md)
 
 - Basic Knowledge
 - Pthread
